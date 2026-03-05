@@ -2,7 +2,7 @@ name: Deploy Hugo site to Pages
 
 on:
   push:
-    branches: ["main"] # 如果你的主分支叫 master，请改为 master
+    branches: ["master"] # 如果你的主分支叫 master，请改为 master
 
 permissions:
   contents: read
