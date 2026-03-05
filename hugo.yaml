@@ -17,8 +17,8 @@ params:
   ShowCodeCopyButtons: true
 
   homeInfoParams:
-    Title: "你好，我是 Pan 👋"
-    Content: "专注于 DDD 战术设计、AI 智能体开发与 DevOps 自动化。"
+    Title: "Hi，我是 tyning"
+    Content: "修道"
 
   # 搜索功能
   outputs:
