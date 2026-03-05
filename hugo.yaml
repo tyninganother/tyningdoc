@@ -7,9 +7,9 @@ hasCJKLanguage: true
 
 params:
   env: production
-  title: "Pan's Tech Lab"
+  title: "Tyning's Tech Lab"
   description: "程序员、AI Agent 探索者、DDD 实践者"
-  author: "Pan Yanji"
+  author: "tyning"
   
   defaultTheme: auto
   ShowReadingTime: true
