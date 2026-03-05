@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pan&#39;s DDD &amp; Tech Lab</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Pan&#39;s DDD &amp; Tech Lab</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 05 Mar 2026 15:38:10 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ddd Tactical Design</title>
+      <link>http://localhost:1313/posts/ddd-tactical-design/</link>
+      <pubDate>Thu, 05 Mar 2026 15:38:10 +0800</pubDate>
+      <guid>http://localhost:1313/posts/ddd-tactical-design/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+baseURL: "https://tyninganother.github.io/tyningdoc/" # 注意：如果是 GitHub Pages 子路径，这里要写全
+title: "Pan's DDD & Tech Lab"
+theme: ["github.com/adityatelange/hugo-PaperMod"]
+
+languageCode: "zh-cn"
+hasCJKLanguage: true
+
+params:
+  env: production
+  title: "Pan's Tech Lab"
+  description: "程序员、AI Agent 探索者、DDD 实践者"
+  author: "Pan Yanji"
+  
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowCodeCopyButtons: true
+
+  homeInfoParams:
+    Title: "你好，我是 Pan 👋"
+    Content: "专注于 DDD 战术设计、AI 智能体开发与 DevOps 自动化。"
+
+  # 搜索功能
+  outputs:
+    home: ["HTML", "RSS", "JSON"]
+
+menu:
+  main:
+    - identifier: posts
+      name: "博文"
+      url: /posts/
+      weight: 10
+    - identifier: search
+      name: "搜索"
+      url: /search/
+      weight: 20

@@ -1,0 +1,11 @@
+services:
+  hugo:
+    # 这个镜像目前是社区事实上的新准
+    image: hugomods/hugo:exts-0.146.0
+    volumes:
+      - .:/src
+    ports:
+      - "1313:1313"
+    # 这里我们添加 --poll 100ms，因为在 Docker/OrbStack 环境下，
+    # 有时候文件变动监控不灵敏，这能保证你改了代码浏览器立即刷新
+    command: server --bind 0.0.0.0 --poll 100ms --baseURL http://localhost:1313/
