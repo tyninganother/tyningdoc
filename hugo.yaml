@@ -1,4 +1,4 @@
-baseURL: "https://tyninganother.github.io/tyningdoc/" # 注意：如果是 GitHub Pages 子路径，这里要写全
+baseURL: "https://tyning.me/" # 注意：如果是 GitHub Pages 子路径，这里要写全
 title: "Pan's DDD & Tech Lab"
 theme: ["github.com/adityatelange/hugo-PaperMod"]
 
