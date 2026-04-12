@@ -1,5 +1,5 @@
 baseURL: "https://tyning.me/" # 注意：如果是 GitHub Pages 子路径，这里要写全
-title: "Pan's DDD & Tech Lab"
+title: "tyning lab"
 theme: ["github.com/adityatelange/hugo-PaperMod"]
 
 languageCode: "zh-cn"
@@ -7,7 +7,7 @@ hasCJKLanguage: true
 
 params:
   env: production
-  title: "Tyning's Tech Lab"
+  title: "tyning lab"
   description: "程序员、AI Agent 探索者、DDD 实践者"
   author: "tyning"
   
